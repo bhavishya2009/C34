@@ -177,7 +177,7 @@ function draw() {
     star_display.changeAnimation("one");
   }
 
-  if(collide(fruit,star2,20) == true){
+  if(collide(fruit,star2,40) == true){
     star2.visible = false;
     star_display.changeAnimation("two");
   }
