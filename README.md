@@ -1,2 +1,1 @@
-# C34
-Bunny game with more challenges.
+# C34_template_code
